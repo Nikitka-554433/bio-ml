@@ -1,0 +1,17 @@
+# Игнорируем виртуальное окружение
+venv/
+
+# Кэш и временные файлы
+__pycache__/
+*.py[cod]
+*.log
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Системные
+.DS_Store
+Thumbs.db
+
