@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.tsv
+*.h5
+*.db
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment configuration
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment files
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+bio-ml/
